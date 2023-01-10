@@ -1,2 +1,2 @@
 # HELLOWORLD
-README:ya no hay sueños de verdad si ko se tiene fe
+README:ya no hay sueños de verdad si no se tiene fe
